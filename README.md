@@ -21,8 +21,6 @@ As for the installation, nothing very complicated, just use the following syntax
 
 Example of a return:
 ```
-[2021-01-25 12:58:10]: unreachable domain='tdhost001.t-systems-sfr.com'
-[2021-01-25 12:58:42]: unreachable domain='tdreg001.t-systems-sfr.com'
 [2021-01-25 12:58:43]: reachable domain='www.example.org', state='HTTP OK (200)'
 [2021-01-25 12:58:50]: reachable domain='www2.hu-berlin.de', state='HTTP OK (200)'
 ```
