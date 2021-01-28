@@ -6,14 +6,14 @@ You can find more information [here](https://certificate.transparency.dev/).
 To retrieve the script, nothing complicated, just use the following commands:
 ```bash
 git clone https://github.com/julienbriault/getSubdomain.git
-cd subDomain/
-chmod +x subDomain.sh
+cd getSubdomain/
+chmod +x getSubdomain.sh
 ```
 
 ## How to use it? 🧐
 As for the installation, nothing very complicated, just use the following syntax:
 ```bash
-./subDomain example.org
+./getSubdomain example.org
 ```
 
 Example of a return:
