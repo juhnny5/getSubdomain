@@ -9,9 +9,8 @@ You can find more information [here](https://certificate.transparency.dev/).
 ## Get the script! 🐱‍👤
 To retrieve the script, nothing complicated, just use the following commands:
 ```bash
-git clone https://github.com/julienbriault/getSubdomain.git
-cd getSubdomain/
-chmod +x getSubdomain.sh
+curl -O https://raw.githubusercontent.com/julienbriault/getSubdomain/main/getSubdomain.sh
+chmod u+x getSubdomain.sh
 ```
 ## How to use it? 🧐
 As for the installation, nothing very complicated, just use the following syntax:
